@@ -23,8 +23,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/windows_xp.jpg
-    - assets/xp_logo.png
+    - assets/
 
   fonts:
     - family: Rubik
